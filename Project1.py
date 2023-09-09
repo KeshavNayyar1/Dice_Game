@@ -16,7 +16,7 @@ def get_number_of_players():
             print("Not Valid")
 
 def main():
-    max_score = 20
+    max_score = 50
     num_players = get_number_of_players()
     player_scores = [0] * num_players
 
